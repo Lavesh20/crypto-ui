@@ -19,17 +19,7 @@ export default function SettingsPage() {
       title: "Bank Details",
       description: "Manage your linked bank accounts",
       href: "/settings/profile/bank-details",
-    },
-    {
-      title: "Notifications",
-      description: "Configure your notification preferences",
-      href: "/settings/notifications",
-    },
-    {
-      title: "Privacy",
-      description: "Manage your privacy settings",
-      href: "/settings/privacy",
-    },
+    }
   ]
 
   return (
