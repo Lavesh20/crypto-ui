@@ -43,7 +43,7 @@ export default function AuthLayout({ children }: AuthLayoutProps) {
 
       {/* Header */}
       <header className="relative z-20 p-4 flex justify-between items-center">
-        <Link href="#" className="flex items-center text-gray-700 hover:text-gray-900 transition-colors">
+        <Link href="/" className="flex items-center text-gray-700 hover:text-gray-900 transition-colors">
           <div className="bg-white/80 backdrop-blur-sm p-2 rounded-full">
             <ArrowLeft size={18} />
           </div>
